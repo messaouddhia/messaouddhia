@@ -1,12 +1,11 @@
 ### Hi there, I'm Dhia - aka [BackpainYT][youtube] 👋
 
 
-## I'm a Student, Developer, and Tunisian!!
+## I'm a Student interested in software Engineering and ethical hacking 😜
 
-- 🔭 I  Have small Python,C++, C#, HTML, CSS, LUA, JS background.
+- 🔭 Python, HTML, CSS, LUA, JS
 - 🌱 I’m currently learning Python and getting into AI
-- 🥅 2021 Goals: Starting projects that will help me in the future, basically growing my portfolio
-- ⚡ I love Gaming, learning a little bit of unity
+- 🥅 2022 Goals: Pass my final exam to earn my computer science bachelor degree in tunisia 😉
 
 ### Spotify Playing 🎧
 
